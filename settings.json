@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Justasmp1.aternos.me:62443",
+    "ip": "Justasmp1.aternos.me",
     "port": 62443,
     "version": "",
     "try-creative": false
